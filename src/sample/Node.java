@@ -1,7 +1,7 @@
 package sample;
 
 /**
- * @Course: SDEV 250 ~ Java Programming I
+ * @Course: SDEV 350 ~ Java Programming I
  * @Author Name: Adam Flammino
  * @Assignment Name: aflammino_week11
  * @Date: Apr 20, 2017
