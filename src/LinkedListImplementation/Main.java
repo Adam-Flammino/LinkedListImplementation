@@ -1,4 +1,4 @@
-package sample;
+package LinkedListImplementation;
 /**
  * @Course: SDEV 350 ~ Java Programming II
  * @Author Name: Flammino
